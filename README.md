@@ -2,7 +2,9 @@
 
 RFL household products: kitchen, storage, furniture and home goods.
 
-**Live site:** [shopnashimatraders.com](https://shopnashimatraders.com)
+**Live site:** [shopnashimatraders.com](https://shopnashimatraders.com)
+
+**Made by Tahsan Islam.** Copyright (c) Tahsan Islam.
 
 Full stack e-commerce for Bangladesh: HTML/CSS/JS storefront, Laravel 13 API and admin panel, MySQL, and shurjoPay (bKash, Nagad, Rocket, cards) plus Cash on Delivery.
 
@@ -133,10 +135,10 @@ routes/web.php    Admin + payment return routes
 database/         Migrations, seeders, SQL dump
 resources/views/admin/  Admin Blade UI
 ```
-
 ---
 
-## License
+## Author and copyright
 
-Private project for M/S Shopna Shima Traders. All rights reserved.
+Everything in this project was designed and developed by **Tahsan Islam**.
 
+Copyright (c) 2026 **Tahsan Islam**. All rights reserved.
